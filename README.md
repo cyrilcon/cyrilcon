@@ -5,7 +5,9 @@
     <a href="https://temnomor.ru">
         <img src="https://img.shields.io/badge/Temnomor-66a0ff" alt="Temnomor"/>
     </a>
-    <img src="https://img.shields.io/badge/Stop_the_war-in_Ukraine-FFD500?style=flat&labelColor=005BBB" alt="Stop War in Ukraine"/>
+    <a href="https://news.un.org/ru/focus/ukraina">
+        <img src="https://img.shields.io/badge/Stop_the_war-in_Ukraine-FFD500?style=flat&labelColor=005BBB" alt="Stop War in Ukraine"/>
+    </a>
     <img src="https://komarev.com/ghpvc/?username=sonic72kon&label=Profile%20views&color=0e75b6&style=flat" alt="sonic72kon"/>
 </p>
 
