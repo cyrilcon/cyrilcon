@@ -5,7 +5,7 @@
     <a href="https://temnomor.ru">
         <img src="https://img.shields.io/badge/Temnomor-66a0ff" alt="Temnomor"/>
     </a>
-    <img src="https://img.shields.io/badge/Stop_War-in_Ukraine-FFD500?style=flat&labelColor=005BBB" alt="Stop War in Ukraine"/>
+    <img src="https://img.shields.io/badge/Stop_the_war-in_Ukraine-FFD500?style=flat&labelColor=005BBB" alt="Stop War in Ukraine"/>
     <img src="https://komarev.com/ghpvc/?username=sonic72kon&label=Profile%20views&color=0e75b6&style=flat" alt="sonic72kon"/>
 </p>
 
@@ -34,14 +34,14 @@ I have been in IT since 2018. I have created more than ten Telegram bots with di
 <a href="https://sqlmodel.tiangolo.com/" style="display: inline-block; text-decoration: none; color: inherit;">
     <img src="https://sqlmodel.tiangolo.com/img/favicon.png" alt="SQLModel" width="40" height="40" align="center"/>
 </a>
-<a href="https://docs.pydantic.dev/latest/" style="display: inline-block; text-decoration: none; color: inherit;">
-    <img src="images/icons/pydantic.svg" alt="Pydantic" width="40" height="40" align="center">
-</a>
 <a href="https://docs.pytest.org/en/stable/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytest/pytest-original.svg" alt="Pytest" width="40" height="40" align="center"/>
 </a>
 <a href="https://www.sqlalchemy.org/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlalchemy/sqlalchemy-original.svg" alt="SQLAlchemy" width="40" height="40" align="center"/>
+</a>
+<a href="https://docs.pydantic.dev/latest/" style="display: inline-block; text-decoration: none; color: inherit;">
+    <img src="images/icons/pydantic.svg" alt="Pydantic" width="40" height="40" align="center">
 </a>
 
 **Technologies:**
@@ -89,6 +89,9 @@ I have been in IT since 2018. I have created more than ten Telegram bots with di
 </a>
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" align="center"/>
+</a>
+<a href="https://www.djangoproject.com/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="Django" width="40" height="40" align="center"/>
 </a>
 <a href="https://www.java.com/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" align="center"/>
