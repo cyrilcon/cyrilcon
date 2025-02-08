@@ -1,19 +1,24 @@
-<p align="left">
+<div align="left">
     <a href="https://telegra.ph/Books-base-EN-10-18">
-        <img src="https://img.shields.io/badge/Books__base-815720?logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCA1MTIgNTEyIiBmaWxsPSJub25lIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgo8cmVjdCB3aWR0aD0iMjM5LjI1MiIgaGVpZ2h0PSIyMzkuMjUyIiBmaWxsPSIjOUU3MzM5Ii8%2BCjxyZWN0IHg9IjI3Mi43NDgiIHdpZHRoPSIyMzkuMjUyIiBoZWlnaHQ9IjIzOS4yNTIiIGZpbGw9IiNEQzlFNUEiLz4KPHJlY3QgeD0iMjcyLjc0OCIgeT0iMjcyLjc0OCIgd2lkdGg9IjIzOS4yNTIiIGhlaWdodD0iMjM5LjI1MiIgZmlsbD0iI0VCRDZDMCIvPgo8cmVjdCB5PSIyNzIuNzQ4IiB3aWR0aD0iMjM5LjI1MiIgaGVpZ2h0PSIyMzkuMjUyIiBmaWxsPSIjRTRDNDlBIi8%2BCjwvc3ZnPgo%3D" alt="Books_base"/>
+        <img src="https://img.shields.io/badge/Books__base-815720?logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCA1MTIgNTEyIiBmaWxsPSJub25lIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgo8cmVjdCB3aWR0aD0iMjM5LjI1MiIgaGVpZ2h0PSIyMzkuMjUyIiBmaWxsPSIjOUU3MzM5Ii8%2BCjxyZWN0IHg9IjI3Mi43NDgiIHdpZHRoPSIyMzkuMjUyIiBoZWlnaHQ9IjIzOS4yNTIiIGZpbGw9IiNEQzlFNUEiLz4KPHJlY3QgeD0iMjcyLjc0OCIgeT0iMjcyLjc0OCIgd2lkdGg9IjIzOS4yNTIiIGhlaWdodD0iMjM5LjI1MiIgZmlsbD0iI0VCRDZDMCIvPgo8cmVjdCB5PSIyNzIuNzQ4IiB3aWR0aD0iMjM5LjI1MiIgaGVpZ2h0PSIyMzkuMjUyIiBmaWxsPSIjRTRDNDlBIi8%2BCjwvc3ZnPgo%3D" alt="Books_base" />
     </a>
     <a href="https://temnomor.ru">
-        <img src="https://img.shields.io/badge/Temnomor-66a0ff" alt="Temnomor"/>
+        <img src="https://img.shields.io/badge/Temnomor-66a0ff" alt="Temnomor" />
     </a>
     <a href="https://news.un.org/ru/focus/ukraina">
-        <img src="https://img.shields.io/badge/Stop_the_war-in_Ukraine-FFD500?style=flat&labelColor=005BBB" alt="Stop War in Ukraine"/>
+        <img src="https://img.shields.io/badge/Stop_the_war-in_Ukraine-FFD500?style=flat&labelColor=005BBB" alt="Stop War in Ukraine" />
     </a>
-    <img src="https://komarev.com/ghpvc/?username=sonic72kon&label=Profile%20views&color=0e75b6&style=flat" alt="sonic72kon"/>
-</p>
+    <a href="https://wakatime.com/@b32f9d4b-0b41-4f2e-9ac8-be321ff3155f">
+        <img src="https://wakatime.com/badge/user/b32f9d4b-0b41-4f2e-9ac8-be321ff3155f.svg" alt="Total time coded since Feb 1 2025" />
+    </a>
+    <img src="https://komarev.com/ghpvc/?username=sonic72kon&label=Profile%20views&color=0e75b6&style=flat" alt="sonic72kon" />
+</div>
 
 <h1 align="center">I'm Cyril Constantine 🇲🇩</h1>
 
-<p align="center">CEO / Founder / Owner at <a href="https://telegra.ph/Books-base-EN-10-18">Books_base</a> | Telegram Developer at <a href="https://temnomor.ru">Temnomor</a> | Python Backend Developer | Telegram Bots Developer | API Developer | DB Architect</p>
+<div align="center">
+    CEO / Founder / Owner at <a href="https://telegra.ph/Books-base-EN-10-18">Books_base</a> | Telegram Developer at <a href="https://temnomor.ru">Temnomor</a> | Python Backend Developer | Telegram Bots Developer | API Developer | DB Architect
+</div>
 
 ---
 
@@ -23,24 +28,24 @@ I have been in IT since 2018. I have created more than ten Telegram bots with di
 
 **Main Language:**
 <a href="https://www.python.org/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" align="center"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" align="center" />
 </a>
 
 **Frameworks:**
 <a href="https://fastapi.tiangolo.com/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40" align="center"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40" align="center" />
 </a>
 <a href="https://aiogram.dev/">
-    <img src="https://aiogram.dev/img/logo.c95d892f.png" alt="Aiogram" width="40" height="40" align="center"/>
+    <img src="https://aiogram.dev/img/logo.c95d892f.png" alt="Aiogram" width="40" height="40" align="center" />
 </a>
 <a href="https://sqlmodel.tiangolo.com/" style="display: inline-block; text-decoration: none; color: inherit;">
-    <img src="https://sqlmodel.tiangolo.com/img/favicon.png" alt="SQLModel" width="40" height="40" align="center"/>
+    <img src="https://sqlmodel.tiangolo.com/img/favicon.png" alt="SQLModel" width="40" height="40" align="center" />
 </a>
 <a href="https://docs.pytest.org/en/stable/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytest/pytest-original.svg" alt="Pytest" width="40" height="40" align="center"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytest/pytest-original.svg" alt="Pytest" width="40" height="40" align="center" />
 </a>
 <a href="https://www.sqlalchemy.org/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlalchemy/sqlalchemy-original.svg" alt="SQLAlchemy" width="40" height="40" align="center"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlalchemy/sqlalchemy-original.svg" alt="SQLAlchemy" width="40" height="40" align="center" />
 </a>
 <a href="https://docs.pydantic.dev/latest/" style="display: inline-block; text-decoration: none; color: inherit;">
     <img src="images/icons/pydantic.svg" alt="Pydantic" width="40" height="40" align="center">
@@ -48,63 +53,67 @@ I have been in IT since 2018. I have created more than ten Telegram bots with di
 
 **Technologies:**
 <a href="https://www.docker.com/">
-    <img src="images/icons/docker.svg" alt="Docker" width="40" height="40" align="center"/>
+    <img src="images/icons/docker.svg" alt="Docker" width="40" height="40" align="center" />
 </a>
 <a href="https://git-scm.com/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40" align="center"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40" align="center" />
 </a>
 <a href="https://www.linux.org/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" align="center"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" align="center" />
 </a>
 <a href="https://python-poetry.org/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/poetry/poetry-original.svg" alt="Poetry" width="40" height="40" align="center"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/poetry/poetry-original.svg" alt="Poetry" width="40" height="40" align="center" />
 </a>
 
 **Databases:**
 <a href="https://www.postgresql.org/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40" align="center"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40" align="center" />
 </a>
 <a href="https://redis.io/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="40" height="40" align="center"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="40" height="40" align="center" />
 </a>
 <a href="https://www.sqlite.org/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite" width="40" height="40" align="center"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite" width="40" height="40" align="center" />
 </a>
 
 **Design:**
 <a href="https://www.adobe.com/products/photoshop.html">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg" alt="Photoshop" width="40" height="40" align="center"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg" alt="Photoshop" width="40" height="40" align="center" />
 </a>
 <a href="https://www.figma.com/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40" align="center"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40" align="center" />
 </a>
 
 **Basic Knowledge:**
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40" align="center"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40" align="center" />
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40" align="center"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40" align="center" />
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" align="center"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" align="center" />
 </a>
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" align="center"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" align="center" />
 </a>
 <a href="https://www.djangoproject.com/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="Django" width="40" height="40" align="center"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="Django" width="40" height="40" align="center" />
 </a>
 <a href="https://www.java.com/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" align="center"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" align="center" />
 </a>
 <a href="https://dotnet.microsoft.com/">
-    <img src="images/icons/dotnet.svg" alt=".NET" width="40" height="40" align="center"/>
+    <img src="images/icons/dotnet.svg" alt=".NET" width="40" height="40" align="center" />
 </a>
 
 **English Level:** A3
 
 **Soft Skills:** Public speaking, writing documentation and media posts.
+
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sonic72kon&layout=compact" alt="WakaTime stats" />
+</div>
 
 <h2 align="center">🗃️ Projects</h2>
 
@@ -157,7 +166,7 @@ In 2023, I joined the Temnomor team. It provides a simple way for students of MP
 
 <h3 align="center">💼 Other Works</h3>
 
-- Telegram bot for sending generated notifications via HTTP using an API. ([Repository link]())
+- Telegram bot for sending generated notifications via HTTP using an API. ([Repository link](https://github.com/Sonic72kon/tg-notify-bot))
 
 - Personal Telegram bot for an international financial advisor. ([Link](https://t.me/ekonstantinow_bot))
 
@@ -171,11 +180,11 @@ I want to build APIs and work with complex database structures. My dream is to t
 
 <h2 align="center">📨 Contact me</h2>
 
-<p align="center">
+<div align="center">
     <a href="https://t.me/sonic_72_kon">
-        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
     </a>
     <a href="mailto:kirill160305@gmail.com@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
     </a>
-</p>
+</div>
