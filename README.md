@@ -107,7 +107,7 @@ I have been in IT since 2018. I have created more than ten Telegram bots with di
     <img src="images/icons/dotnet.svg" alt=".NET" width="40" height="40" align="center" />
 </a>
 
-**English Level:** A3
+**English Level:** A2
 
 **Soft Skills:** Public speaking, writing documentation and media posts.
 
