@@ -181,10 +181,10 @@ I want to build APIs and work with complex database structures. My dream is to t
 <h2 align="center">📨 Contact me</h2>
 
 <div align="center">
-    <a href="https://t.me/sonic_72_kon">
+    <a href="https://t.me/cyrilcon">
         <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
     </a>
-    <a href="mailto:kirill160305@gmail.com@gmail.com">
+    <a href="mailto:constantine.sonic@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
     </a>
 </div>
