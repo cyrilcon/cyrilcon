@@ -112,7 +112,7 @@ I have been in IT since 2018. I have created more than ten Telegram bots with di
 **Soft Skills:** Public speaking, writing documentation and media posts.
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sonic72kon&layout=compact" alt="WakaTime stats" />
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=cyrilcon&layout=compact" alt="WakaTime stats" />
 </div>
 
 <h2 align="center">🗃️ Projects</h2>
