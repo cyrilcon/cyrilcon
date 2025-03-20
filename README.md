@@ -28,24 +28,24 @@ I have been in IT since 2018. I have created more than ten Telegram bots with di
 
 **Main Language:**
 <a href="https://www.python.org/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" align="center" />
+    <img src="images/icons/python.svg" alt="Python" width="40" height="40" align="center" />
 </a>
 
 **Frameworks:**
 <a href="https://fastapi.tiangolo.com/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40" align="center" />
+    <img src="images/icons/fastapi.svg" alt="FastAPI" width="40" height="40" align="center" />
 </a>
 <a href="https://aiogram.dev/">
-    <img src="https://aiogram.dev/img/logo.c95d892f.png" alt="Aiogram" width="40" height="40" align="center" />
+    <img src="images/icons/aiogram.svg" alt="Aiogram" width="40" height="40" align="center" />
 </a>
 <a href="https://sqlmodel.tiangolo.com/" style="display: inline-block; text-decoration: none; color: inherit;">
-    <img src="https://sqlmodel.tiangolo.com/img/favicon.png" alt="SQLModel" width="40" height="40" align="center" />
+    <img src="images/icons/sqlmodel.svg" alt="SQLModel" width="40" height="40" align="center" />
 </a>
 <a href="https://docs.pytest.org/en/stable/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytest/pytest-original.svg" alt="Pytest" width="40" height="40" align="center" />
+    <img src="images/icons/pytest.svg" alt="Pytest" width="40" height="40" align="center" />
 </a>
 <a href="https://www.sqlalchemy.org/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlalchemy/sqlalchemy-original.svg" alt="SQLAlchemy" width="40" height="40" align="center" />
+    <img src="images/icons/sqlalchemy.svg" alt="SQLAlchemy" width="40" height="40" align="center" />
 </a>
 <a href="https://docs.pydantic.dev/latest/" style="display: inline-block; text-decoration: none; color: inherit;">
     <img src="images/icons/pydantic.svg" alt="Pydantic" width="40" height="40" align="center">
@@ -56,52 +56,55 @@ I have been in IT since 2018. I have created more than ten Telegram bots with di
     <img src="images/icons/docker.svg" alt="Docker" width="40" height="40" align="center" />
 </a>
 <a href="https://git-scm.com/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40" align="center" />
+    <img src="images/icons/git.svg" alt="Git" width="40" height="40" align="center" />
 </a>
 <a href="https://www.linux.org/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" align="center" />
+    <img src="images/icons/linux.svg" alt="Linux" width="40" height="40" align="center" />
 </a>
 <a href="https://python-poetry.org/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/poetry/poetry-original.svg" alt="Poetry" width="40" height="40" align="center" />
+    <img src="images/icons/poetry.svg" alt="Poetry" width="40" height="40" align="center" />
+</a>
+<a href="https://docs.astral.sh/uv/">
+    <img src="images/icons/uv.svg" alt="UV" width="40" height="40" align="center" />
 </a>
 
 **Databases:**
 <a href="https://www.postgresql.org/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40" align="center" />
+    <img src="images/icons/postgresql.svg" alt="PostgreSQL" width="40" height="40" align="center" />
 </a>
 <a href="https://redis.io/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="40" height="40" align="center" />
+    <img src="images/icons/redis.svg" alt="Redis" width="40" height="40" align="center" />
 </a>
 <a href="https://www.sqlite.org/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite" width="40" height="40" align="center" />
+    <img src="images/icons/sqlite.svg" alt="SQLite" width="40" height="40" align="center" />
 </a>
 
 **Design:**
 <a href="https://www.adobe.com/products/photoshop.html">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg" alt="Photoshop" width="40" height="40" align="center" />
+    <img src="images/icons/photoshop.svg" alt="Photoshop" width="40" height="40" align="center" />
 </a>
 <a href="https://www.figma.com/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40" align="center" />
+    <img src="images/icons/figma.svg" alt="Figma" width="40" height="40" align="center" />
 </a>
 
 **Basic Knowledge:**
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40" align="center" />
+    <img src="images/icons/html5.svg" alt="HTML" width="40" height="40" align="center" />
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40" align="center" />
+    <img src="images/icons/css3.svg" alt="CSS" width="40" height="40" align="center" />
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" align="center" />
+    <img src="images/icons/javascript.svg" alt="JavaScript" width="40" height="40" align="center" />
 </a>
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" align="center" />
+    <img src="images/icons/csharp.svg" alt="C#" width="40" height="40" align="center" />
 </a>
 <a href="https://www.djangoproject.com/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="Django" width="40" height="40" align="center" />
+    <img src="images/icons/django.svg" alt="Django" width="40" height="40" align="center" />
 </a>
 <a href="https://www.java.com/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" align="center" />
+    <img src="images/icons/java.svg" alt="Java" width="40" height="40" align="center" />
 </a>
 <a href="https://dotnet.microsoft.com/">
     <img src="images/icons/dotnet.svg" alt=".NET" width="40" height="40" align="center" />
