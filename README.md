@@ -22,7 +22,7 @@
 
 ---
 
-I have been in IT since 2018. I have created more than ten Telegram bots with different levels of complexity. I focus on designing and managing APIs and databases. I learned everything by myself.
+I am self-taught. I have been in IT since 2018. I have created more than ten Telegram bots with different levels of complexity. I focus on designing and managing APIs and databases.
 
 <h2 align="center">🛠 Skills</h2>
 
@@ -172,14 +172,6 @@ In 2023, I joined the Temnomor team. It provides a simple way for students of MP
 - Telegram bot for sending generated notifications via HTTP using an API. ([Repository link](https://github.com/Sonic72kon/tg-notify-bot))
 
 - Personal Telegram bot for an international financial advisor. ([Link](https://t.me/ekonstantinow_bot))
-
-<h2 align="center">🎓 Education & Short Biography</h2>
-
-I am self-taught. Everything I know, I learned on my own. From 2020 to 2021, I studied at Yandex Lyceum in the "Basics of Programming in Python" course. I have taken part in programming competitions many times and won first place once. In school, I participated twice in an international Scratch-based game development contest and won first place both times. I am always open to learning new things.
-
-<h2 align="center">🎯 Goals & Aspirations</h2>
-
-I want to build APIs and work with complex database structures. My dream is to take part in the development of a video game and see my name in the credits of an AAA game.
 
 <h2 align="center">📨 Contact me</h2>
 
