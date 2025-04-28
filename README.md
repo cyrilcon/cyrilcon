@@ -61,12 +61,6 @@ I am self-taught. I have been in IT since 2018. I have created more than ten Tel
 <a href="https://www.linux.org/">
     <img src="images/icons/linux.svg" alt="Linux" width="40" height="40" align="center" />
 </a>
-<a href="https://python-poetry.org/">
-    <img src="images/icons/poetry.svg" alt="Poetry" width="40" height="40" align="center" />
-</a>
-<a href="https://docs.astral.sh/uv/">
-    <img src="images/icons/uv.svg" alt="UV" width="40" height="40" align="center" />
-</a>
 
 **Databases:**
 <a href="https://www.postgresql.org/">
@@ -87,6 +81,17 @@ I am self-taught. I have been in IT since 2018. I have created more than ten Tel
     <img src="images/icons/figma.svg" alt="Figma" width="40" height="40" align="center" />
 </a>
 
+**Package Managers:**
+<a href="https://docs.astral.sh/uv/">
+    <img src="images/icons/uv.svg" alt="uv" width="40" height="40" align="center" />
+</a>
+<a href="https://python-poetry.org/">
+    <img src="images/icons/poetry.svg" alt="Poetry" width="40" height="40" align="center" />
+</a>
+<a href="https://www.npmjs.com/">
+    <img src="images/icons/npm.svg" alt="npm" width="40" height="40" align="center" />
+</a>
+
 **Basic Knowledge:**
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
     <img src="images/icons/html5.svg" alt="HTML" width="40" height="40" align="center" />
@@ -94,20 +99,23 @@ I am self-taught. I have been in IT since 2018. I have created more than ten Tel
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
     <img src="images/icons/css3.svg" alt="CSS" width="40" height="40" align="center" />
 </a>
+<a href="https://www.typescriptlang.org/">
+    <img src="images/icons/typescript.svg" alt="TypeScript" width="40" height="40" align="center" />
+</a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
     <img src="images/icons/javascript.svg" alt="JavaScript" width="40" height="40" align="center" />
 </a>
-<a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
-    <img src="images/icons/csharp.svg" alt="C#" width="40" height="40" align="center" />
+<a href="https://react.dev/">
+    <img src="images/icons/react.svg" alt="React" width="40" height="40" align="center" />
+</a>
+<a href="https://redux.js.org/">
+    <img src="images/icons/redux.svg" alt="Redux" width="40" height="40" align="center" />
+</a>
+<a href="https://nodejs.org/en">
+    <img src="images/icons/nodejs.svg" alt="Node.js" width="40" height="40" align="center" />
 </a>
 <a href="https://www.djangoproject.com/">
     <img src="images/icons/django.svg" alt="Django" width="40" height="40" align="center" />
-</a>
-<a href="https://www.java.com/">
-    <img src="images/icons/java.svg" alt="Java" width="40" height="40" align="center" />
-</a>
-<a href="https://dotnet.microsoft.com/">
-    <img src="images/icons/dotnet.svg" alt=".NET" width="40" height="40" align="center" />
 </a>
 
 **English Level:** A2
