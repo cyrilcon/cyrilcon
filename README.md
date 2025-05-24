@@ -17,18 +17,21 @@
 <h1 align="center">I'm Cyril Constantine 🇲🇩</h1>
 
 <div align="center">
-    CEO / Founder / Owner at <a href="https://telegra.ph/Books-base-EN-10-18">Books_base</a> | Telegram Developer at <a href="https://temnomor.ru">Temnomor</a> | Python Backend Developer | Telegram Bots Developer | API Developer | DB Architect
+    CEO / Founder / Owner at <a href="https://telegra.ph/Books-base-EN-10-18">Books_base</a> | Telegram Developer at <a href="https://temnomor.ru">Temnomor</a> | Backend Developer | Telegram Bots Developer | API Developer | DB Architect
 </div>
 
 ---
 
-I am self-taught. I have been in IT since 2018. I have created more than ten Telegram bots with different levels of complexity. I focus on designing and managing APIs and databases.
+I am self-taught. I have created more than ten Telegram bots with different levels of complexity. I focus on designing and managing APIs and databases.
 
 <h2 align="center">🛠 Skills</h2>
 
-**Main Language:**
+**Main Languages:**
 <a href="https://www.python.org/">
     <img src="images/icons/python.svg" alt="Python" width="40" height="40" align="center" />
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="images/icons/javascript.svg" alt="JavaScript" width="40" height="40" align="center" />
 </a>
 
 **Frameworks:**
@@ -38,17 +41,22 @@ I am self-taught. I have been in IT since 2018. I have created more than ten Tel
 <a href="https://aiogram.dev/">
     <img src="images/icons/aiogram.svg" alt="Aiogram" width="40" height="40" align="center" />
 </a>
+<a href="https://docs.pydantic.dev/latest/" style="display: inline-block; text-decoration: none; color: inherit;">
+    <img src="images/icons/pydantic.svg" alt="Pydantic" width="40" height="40" align="center">
+</a>
 <a href="https://sqlmodel.tiangolo.com/" style="display: inline-block; text-decoration: none; color: inherit;">
     <img src="images/icons/sqlmodel.svg" alt="SQLModel" width="40" height="40" align="center" />
-</a>
-<a href="https://docs.pytest.org/en/stable/">
-    <img src="images/icons/pytest.svg" alt="Pytest" width="40" height="40" align="center" />
 </a>
 <a href="https://www.sqlalchemy.org/">
     <img src="images/icons/sqlalchemy.svg" alt="SQLAlchemy" width="40" height="40" align="center" />
 </a>
-<a href="https://docs.pydantic.dev/latest/" style="display: inline-block; text-decoration: none; color: inherit;">
-    <img src="images/icons/pydantic.svg" alt="Pydantic" width="40" height="40" align="center">
+<a href="https://expressjs.com/" style="display: inline-block; text-decoration: none; color: inherit;">
+    <img src="images/icons/express.svg" alt="Express" width="40" height="40" align="center">
+</a>
+
+**Testing:**
+<a href="https://docs.pytest.org/en/stable/">
+    <img src="images/icons/pytest.svg" alt="Pytest" width="40" height="40" align="center" />
 </a>
 
 **Technologies:**
@@ -61,6 +69,9 @@ I am self-taught. I have been in IT since 2018. I have created more than ten Tel
 <a href="https://www.linux.org/">
     <img src="images/icons/linux.svg" alt="Linux" width="40" height="40" align="center" />
 </a>
+<a href="https://nodejs.org/en">
+    <img src="images/icons/nodejs.svg" alt="Node.js" width="40" height="40" align="center" />
+</a>
 
 **Databases:**
 <a href="https://www.postgresql.org/">
@@ -71,14 +82,6 @@ I am self-taught. I have been in IT since 2018. I have created more than ten Tel
 </a>
 <a href="https://www.sqlite.org/">
     <img src="images/icons/sqlite.svg" alt="SQLite" width="40" height="40" align="center" />
-</a>
-
-**Design:**
-<a href="https://www.adobe.com/products/photoshop.html">
-    <img src="images/icons/photoshop.svg" alt="Photoshop" width="40" height="40" align="center" />
-</a>
-<a href="https://www.figma.com/">
-    <img src="images/icons/figma.svg" alt="Figma" width="40" height="40" align="center" />
 </a>
 
 **Package Managers:**
@@ -102,25 +105,27 @@ I am self-taught. I have been in IT since 2018. I have created more than ten Tel
 <a href="https://www.typescriptlang.org/">
     <img src="images/icons/typescript.svg" alt="TypeScript" width="40" height="40" align="center" />
 </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img src="images/icons/javascript.svg" alt="JavaScript" width="40" height="40" align="center" />
-</a>
 <a href="https://react.dev/">
     <img src="images/icons/react.svg" alt="React" width="40" height="40" align="center" />
 </a>
 <a href="https://redux.js.org/">
     <img src="images/icons/redux.svg" alt="Redux" width="40" height="40" align="center" />
 </a>
-<a href="https://nodejs.org/en">
-    <img src="images/icons/nodejs.svg" alt="Node.js" width="40" height="40" align="center" />
-</a>
 <a href="https://www.djangoproject.com/">
     <img src="images/icons/django.svg" alt="Django" width="40" height="40" align="center" />
 </a>
 
-**English Level:** A2
+**Design:**
+<a href="https://www.adobe.com/products/photoshop.html">
+    <img src="images/icons/photoshop.svg" alt="Photoshop" width="40" height="40" align="center" />
+</a>
+<a href="https://www.figma.com/">
+    <img src="images/icons/figma.svg" alt="Figma" width="40" height="40" align="center" />
+</a>
 
-**Soft Skills:** Public speaking, writing documentation and media posts.
+**English Level:** B1
+
+**Soft Skills:** Writing documentations and media posts.
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=cyrilcon&layout=compact" alt="WakaTime stats" />
@@ -176,6 +181,8 @@ In 2023, I joined the Temnomor team. It provides a simple way for students of MP
 ---
 
 <h3 align="center">💼 Other Works</h3>
+
+- REST API for anonymous support ticket management with date filtering and status handling. ([Repository link](https://github.com/cyrilcon/support-ticket-api))
 
 - Telegram bot for sending generated notifications via HTTP using an API. ([Repository link](https://github.com/Sonic72kon/tg-notify-bot))
 
