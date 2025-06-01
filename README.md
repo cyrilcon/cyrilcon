@@ -6,7 +6,7 @@
         <img src="https://img.shields.io/badge/Temnomor-66a0ff" alt="Temnomor" />
     </a>
     <a href="https://news.un.org/ru/focus/ukraina">
-        <img src="https://img.shields.io/badge/Stop_the_war-in_Ukraine-FFD500?style=flat&labelColor=005BBB" alt="Stop War in Ukraine" />
+        <img src="https://img.shields.io/badge/STOP_WAR-IN_UKRAINE-FFD500?style=flat&labelColor=005BBB" alt="Stop War in Ukraine" />
     </a>
     <a href="https://wakatime.com/@b32f9d4b-0b41-4f2e-9ac8-be321ff3155f">
         <img src="https://wakatime.com/badge/user/b32f9d4b-0b41-4f2e-9ac8-be321ff3155f.svg" alt="Total time coded since Feb 1 2025" />
