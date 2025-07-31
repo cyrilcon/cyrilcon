@@ -17,7 +17,7 @@
 <h1 align="center">I'm Cyril Constantine 🇲🇩</h1>
 
 <div align="center">
-    CEO / Founder / Owner at <a href="https://telegra.ph/Books-base-EN-10-18">Books_base</a> | Telegram Developer at <a href="https://temnomor.ru">Temnomor</a> | Backend Developer | Telegram Bots Developer | API Developer | DB Architect
+    CEO / Founder / Owner at <a href="https://telegra.ph/Books-base-EN-10-18">Books_base</a> | Telegram Developer at <a href="https://temnomor.ru">Temnomor</a> | Backend Developer
 </div>
 
 ---
@@ -35,6 +35,9 @@ I am self-taught. I have created more than ten Telegram bots with different leve
 </a>
 
 **Frameworks:**
+<a href="https://www.djangoproject.com/">
+    <img src="images/icons/django.svg" alt="Django" width="40" height="40" align="center" />
+</a>
 <a href="https://fastapi.tiangolo.com/">
     <img src="images/icons/fastapi.svg" alt="FastAPI" width="40" height="40" align="center" />
 </a>
@@ -46,6 +49,9 @@ I am self-taught. I have created more than ten Telegram bots with different leve
 </a>
 <a href="https://sqlmodel.tiangolo.com/" style="display: inline-block; text-decoration: none; color: inherit;">
     <img src="images/icons/sqlmodel.svg" alt="SQLModel" width="40" height="40" align="center" />
+</a>
+<a href="https://www.django-rest-framework.org/" style="display: inline-block; text-decoration: none; color: inherit;">
+    <img src="images/icons/djangorest.svg" alt="Django REST framework" width="40" height="40" align="center" />
 </a>
 <a href="https://www.sqlalchemy.org/">
     <img src="images/icons/sqlalchemy.svg" alt="SQLAlchemy" width="40" height="40" align="center" />
@@ -96,6 +102,9 @@ I am self-taught. I have created more than ten Telegram bots with different leve
 </a>
 
 **Basic Knowledge:**
+<a href="https://getbootstrap.com/">
+    <img src="images/icons/bootstrap.svg" alt="Bootstrap" width="40" height="40" align="center" />
+</a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
     <img src="images/icons/html5.svg" alt="HTML" width="40" height="40" align="center" />
 </a>
@@ -110,9 +119,6 @@ I am self-taught. I have created more than ten Telegram bots with different leve
 </a>
 <a href="https://redux.js.org/">
     <img src="images/icons/redux.svg" alt="Redux" width="40" height="40" align="center" />
-</a>
-<a href="https://www.djangoproject.com/">
-    <img src="images/icons/django.svg" alt="Django" width="40" height="40" align="center" />
 </a>
 
 **Design:**
