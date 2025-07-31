@@ -188,6 +188,8 @@ In 2023, I joined the Temnomor team. It provides a simple way for students of MP
 
 <h3 align="center">💼 Other Works</h3>
 
+- Django app for cash flow management. ([Repository link](https://github.com/cyrilcon/dds-manager))
+
 - REST API for anonymous support ticket management with date filtering and status handling. ([Repository link](https://github.com/cyrilcon/support-ticket-api))
 
 - Telegram bot for sending generated notifications via HTTP using an API. ([Repository link](https://github.com/Sonic72kon/tg-notify-bot))
