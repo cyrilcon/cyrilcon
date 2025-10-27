@@ -1,5 +1,5 @@
 <div align="left">
-    <a href="https://telegra.ph/Books-base-EN-10-18">
+    <a href="https://booksbase.ru">
         <img src="https://img.shields.io/badge/Books__base-815720?logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCA1MTIgNTEyIiBmaWxsPSJub25lIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgo8cmVjdCB3aWR0aD0iMjM5LjI1MiIgaGVpZ2h0PSIyMzkuMjUyIiBmaWxsPSIjOUU3MzM5Ii8%2BCjxyZWN0IHg9IjI3Mi43NDgiIHdpZHRoPSIyMzkuMjUyIiBoZWlnaHQ9IjIzOS4yNTIiIGZpbGw9IiNEQzlFNUEiLz4KPHJlY3QgeD0iMjcyLjc0OCIgeT0iMjcyLjc0OCIgd2lkdGg9IjIzOS4yNTIiIGhlaWdodD0iMjM5LjI1MiIgZmlsbD0iI0VCRDZDMCIvPgo8cmVjdCB5PSIyNzIuNzQ4IiB3aWR0aD0iMjM5LjI1MiIgaGVpZ2h0PSIyMzkuMjUyIiBmaWxsPSIjRTRDNDlBIi8%2BCjwvc3ZnPgo%3D" alt="Books_base" />
     </a>
     <a href="https://temnomor.ru">
@@ -14,21 +14,22 @@
     <img src="https://komarev.com/ghpvc/?username=sonic72kon&label=Profile%20views&color=0e75b6&style=flat" alt="sonic72kon" />
 </div>
 
-<h1 align="center">I'm Cyril Constantine 🇲🇩</h1>
+<h1 align="center">I'm Cyril Constantine</h1>
 
 <div align="center">
-    CEO / Founder / Owner at <a href="https://telegra.ph/Books-base-EN-10-18">Books_base</a> | Telegram Developer at <a href="https://temnomor.ru">Temnomor</a> | Backend Developer
+    CEO / Founder / Owner at <a href="https://booksbase.ru">Books_base</a> | Telegram Developer at <a href="https://temnomor.ru">Temnomor</a> | Backend Developer
 </div>
 
 ---
-
-I am self-taught. I have created more than ten Telegram bots with different levels of complexity. I focus on designing and managing APIs and databases.
 
 <h2 align="center">🛠 Skills</h2>
 
 **Main Languages:**
 <a href="https://www.python.org/">
     <img src="images/icons/python.svg" alt="Python" width="40" height="40" align="center" />
+</a>
+<a href="https://www.typescriptlang.org/">
+    <img src="images/icons/typescript.svg" alt="TypeScript" width="40" height="40" align="center" />
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
     <img src="images/icons/javascript.svg" alt="JavaScript" width="40" height="40" align="center" />
@@ -60,9 +61,24 @@ I am self-taught. I have created more than ten Telegram bots with different leve
     <img src="images/icons/express.svg" alt="Express" width="40" height="40" align="center">
 </a>
 
-**Testing:**
-<a href="https://docs.pytest.org/en/stable/">
-    <img src="images/icons/pytest.svg" alt="Pytest" width="40" height="40" align="center" />
+**Frontend:**
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+    <img src="images/icons/html5.svg" alt="HTML" width="40" height="40" align="center" />
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+    <img src="images/icons/css3.svg" alt="CSS" width="40" height="40" align="center" />
+</a>
+<a href="https://react.dev/">
+    <img src="images/icons/react.svg" alt="React" width="40" height="40" align="center" />
+</a>
+<a href="https://redux.js.org/">
+    <img src="images/icons/redux.svg" alt="Redux" width="40" height="40" align="center" />
+</a>
+<a href="https://getbootstrap.com/">
+    <img src="images/icons/bootstrap.svg" alt="Bootstrap" width="40" height="40" align="center" />
+</a>
+<a href="https://sass-lang.com/">
+    <img src="images/icons/sass.svg" alt="sass" width="40" height="40" align="center" />
 </a>
 
 **Technologies:**
@@ -77,6 +93,9 @@ I am self-taught. I have created more than ten Telegram bots with different leve
 </a>
 <a href="https://nodejs.org/en">
     <img src="images/icons/nodejs.svg" alt="Node.js" width="40" height="40" align="center" />
+</a>
+<a href="https://nginx.org/">
+    <img src="images/icons/nginx.svg" alt="Nginx" width="40" height="40" align="center" />
 </a>
 
 **Databases:**
@@ -101,26 +120,6 @@ I am self-taught. I have created more than ten Telegram bots with different leve
     <img src="images/icons/npm.svg" alt="npm" width="40" height="40" align="center" />
 </a>
 
-**Basic Knowledge:**
-<a href="https://getbootstrap.com/">
-    <img src="images/icons/bootstrap.svg" alt="Bootstrap" width="40" height="40" align="center" />
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-    <img src="images/icons/html5.svg" alt="HTML" width="40" height="40" align="center" />
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-    <img src="images/icons/css3.svg" alt="CSS" width="40" height="40" align="center" />
-</a>
-<a href="https://www.typescriptlang.org/">
-    <img src="images/icons/typescript.svg" alt="TypeScript" width="40" height="40" align="center" />
-</a>
-<a href="https://react.dev/">
-    <img src="images/icons/react.svg" alt="React" width="40" height="40" align="center" />
-</a>
-<a href="https://redux.js.org/">
-    <img src="images/icons/redux.svg" alt="Redux" width="40" height="40" align="center" />
-</a>
-
 **Design:**
 <a href="https://www.adobe.com/products/photoshop.html">
     <img src="images/icons/photoshop.svg" alt="Photoshop" width="40" height="40" align="center" />
@@ -129,9 +128,12 @@ I am self-taught. I have created more than ten Telegram bots with different leve
     <img src="images/icons/figma.svg" alt="Figma" width="40" height="40" align="center" />
 </a>
 
-**English Level:** B1
+**Testing:**
+<a href="https://docs.pytest.org/en/stable/">
+    <img src="images/icons/pytest.svg" alt="Pytest" width="40" height="40" align="center" />
+</a>
 
-**Soft Skills:** Writing documentations and media posts.
+**English Level:** B1
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=cyrilcon&layout=compact" alt="WakaTime stats" />
@@ -143,9 +145,10 @@ I am self-taught. I have created more than ten Telegram bots with different leve
     <img src="images/icons/books_base.svg" alt="Books_base" width="30" height="30" align="center"> Books_base
 </h3>
 
-In 2022, I created my own online store for e-books on Telegram. I completely rewrote the project three times to learn new skills and improve my development approach. I continue to improve and support the project.
+Books_base is an online store for e-books with search, personal library, book requests, daily deals and simple payments.
 
-**Roles:** 
+**Roles:**
+
 - CEO
 - Founder
 - Owner
@@ -155,17 +158,18 @@ In 2022, I created my own online store for e-books on Telegram. I completely rew
 - Marketer
 
 **Project Stack:**
+
 - **Languages:** Python
-- **Frameworks:** FastAPI, Aiogram, Pytest, SQLAlchemy, Alembic, SQLModel, Pydantic
-- **Technologies:** Docker, Git, Linux, Poetry
-- **Databases:** PostgreSQL, Redis, SQLite
+- **Frameworks:** Django, DRF, FastAPI, Aiogram, Pydantic
+- **Technologies:** Docker, RabbitMQ, Celery, Nginx
+- **Databases:** PostgreSQL, Redis
 
 **Links:**
-- 📢 [Telegram Channel](https://t.me/Books_base)
-- 🤖 [Telegram Bot](https://t.me/Books_base_bot)
-- 📄 [More about the project](https://telegra.ph/Books-base-EN-10-18)
 
-**The private repository link is available only to potential employers!!**
+- 🌐 [Official Website](https://booksbase.ru)
+- 🤖 [Telegram Bot](https://t.me/books_base_bot)
+- 📢 [Telegram Channel](https://t.me/books_base)
+- 📄 [More about the project](https://telegra.ph/Books-base-09-11)
 
 ---
 
@@ -173,13 +177,23 @@ In 2022, I created my own online store for e-books on Telegram. I completely rew
     <img src="images/icons/temnomor.svg" alt="Temnomor" width="30" height="30" align="center"> Temnomor
 </h3>
 
-In 2023, I joined the Temnomor team. It provides a simple way for students of MPC TIU (Multiprofile College of Tyumen Industrial University) to receive their schedules on different platforms. I developed a Telegram bot, which helped to grow the number of users. Now, more than 4,500 students use Temnomor services.
+Temnomor is a service providing group and teacher schedules for 4,500 students at the Multiprofile College of Tyumen
+Industrial University. (No longer active)
 
 **Roles:**
+
 - Telegram Developer
 - SMM Manager
 
+**Project Stack:**
+
+- **Languages:** Python
+- **Frameworks:** Aiogram, FastAPI, Playwright, SQLAlchemy, Alembic, APScheduler, Pydantic
+- **Technologies:** Docker, 
+- **Databases:** PostgreSQL, Redis
+
 **Links:**
+
 - 🌐 [Official Website](https://temnomor.ru)
 - 🤖 [Telegram Bot](https://t.me/temnomor_bot)
 - 📢 [Team's Telegram Channel](https://t.me/temnomor)
@@ -190,9 +204,11 @@ In 2023, I joined the Temnomor team. It provides a simple way for students of MP
 
 - Django app for cash flow management. ([Repository link](https://github.com/cyrilcon/dds-manager))
 
-- REST API for anonymous support ticket management with date filtering and status handling. ([Repository link](https://github.com/cyrilcon/support-ticket-api))
+- REST API in JavaScript for anonymous support ticket management with date filtering and status
+  handling. ([Repository link](https://github.com/cyrilcon/support-ticket-api))
 
-- Telegram bot for sending generated notifications via HTTP using an API. ([Repository link](https://github.com/Sonic72kon/tg-notify-bot))
+- Telegram bot for sending generated notifications via HTTP using an
+  API. ([Repository link](https://github.com/Sonic72kon/tg-notify-bot))
 
 - Personal Telegram bot for an international financial advisor. ([Link](https://t.me/ekonstantinow_bot))
 
