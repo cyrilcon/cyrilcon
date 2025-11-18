@@ -91,6 +91,9 @@
 <a href="https://www.linux.org/" style="text-decoration: none;">
     <img src="images/icons/linux.svg" alt="Linux" width="40" height="40" align="center" />
 </a>
+<a href="https://www.vim.org/" style="text-decoration: none;">
+    <img src="images/icons/vim.svg" alt="Vim" width="40" height="40" align="center" />
+</a>
 <a href="https://nodejs.org/en" style="text-decoration: none;">
     <img src="images/icons/nodejs.svg" alt="Node.js" width="40" height="40" align="center" />
 </a>
