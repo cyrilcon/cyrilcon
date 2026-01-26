@@ -105,6 +105,9 @@
 <a href="https://www.postgresql.org/" style="text-decoration: none;">
     <img src="images/icons/postgresql.svg" alt="PostgreSQL" width="40" height="40" align="center" />
 </a>
+<a href="https://www.mysql.com/" style="text-decoration: none;">
+    <img src="images/icons/mysql.svg" alt="MySQL" width="40" height="40" align="center" />
+</a>
 <a href="https://redis.io/" style="text-decoration: none;">
     <img src="images/icons/redis.svg" alt="Redis" width="40" height="40" align="center" />
 </a>
