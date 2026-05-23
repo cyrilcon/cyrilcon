@@ -22,8 +22,6 @@
 
 ---
 
-<h2 align="center">🛠 Skills</h2>
-
 **Main Languages:**
 <a href="https://www.python.org/" style="text-decoration: none;">
     <img src="images/icons/python.svg" alt="Python" width="40" height="40" align="center" />
