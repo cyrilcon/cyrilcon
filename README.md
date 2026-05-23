@@ -34,6 +34,9 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" style="text-decoration: none;">
     <img src="images/icons/javascript.svg" alt="JavaScript" width="40" height="40" align="center" />
 </a>
+<a href="https://www.php.net/" style="text-decoration: none;">
+    <img src="images/icons/php.svg" alt="PHP" width="40" height="40" align="center" />
+</a>
 
 **Frameworks:**
 <a href="https://www.djangoproject.com/" style="text-decoration: none;">
@@ -139,92 +142,6 @@
     <img src="images/icons/pytest.svg" alt="Pytest" width="40" height="40" align="center" />
 </a>
 
-**English Level:** B1
-
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=cyrilcon&layout=compact" alt="WakaTime stats" />
-</div>
-
-<h2 align="center">🗃️ Projects</h2>
-
-<h3 align="center">
-    <img src="images/icons/books_base.svg" alt="Books_base" width="30" height="30" align="center"> Books_base
-</h3>
-
-Books_base is an online store for e-books with search, personal library, book requests, daily deals and simple payments.
-
-**Roles:**
-
-- CEO
-- Founder
-- Owner
-- Developer
-- Product Manager
-- Designer
-- Marketer
-
-**Project Stack:**
-
-- **Languages:** Python
-- **Frameworks:** Django, DRF, FastAPI, Aiogram, Pydantic
-- **Technologies:** Docker, RabbitMQ, Celery, Nginx
-- **Databases:** PostgreSQL, Redis
-
-**Links:**
-
-- 🌐 [Official Website](https://booksbase.ru)
-- 🤖 [Telegram Bot](https://t.me/books_base_bot)
-- 📢 [Telegram Channel](https://t.me/books_base)
-- 📄 [More about the project](https://telegra.ph/Books-base-09-11)
-
----
-
-<h3 align="center">
-    <img src="images/icons/temnomor.svg" alt="Temnomor" width="30" height="30" align="center"> Temnomor
-</h3>
-
-Temnomor is a service providing group and teacher schedules for 4,500 students at the Multiprofile College of Tyumen
-Industrial University. (No longer active)
-
-**Roles:**
-
-- Telegram Developer
-- SMM Manager
-
-**Project Stack:**
-
-- **Languages:** Python
-- **Frameworks:** Aiogram, FastAPI, Playwright, SQLAlchemy, Alembic, APScheduler, Pydantic
-- **Technologies:** Docker, 
-- **Databases:** PostgreSQL, Redis
-
-**Links:**
-
-- 🌐 [Official Website](https://temnomor.ru)
-- 🤖 [Telegram Bot](https://t.me/temnomor_bot)
-- 📢 [Team's Telegram Channel](https://t.me/temnomor)
-
----
-
-<h3 align="center">💼 Other Works</h3>
-
-- Django app for cash flow management. ([Repository link](https://github.com/cyrilcon/dds-manager))
-
-- REST API in JavaScript for anonymous support ticket management with date filtering and status
-  handling. ([Repository link](https://github.com/cyrilcon/support-ticket-api))
-
-- Telegram bot for sending generated notifications via HTTP using an
-  API. ([Repository link](https://github.com/Sonic72kon/tg-notify-bot))
-
-- Personal Telegram bot for an international financial advisor. ([Link](https://t.me/ekonstantinow_bot))
-
-<h2 align="center">📨 Contact me</h2>
-
-<div align="center">
-    <a href="https://t.me/cyrilcon">
-        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-    </a>
-    <a href="mailto:constantine.sonic@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-    </a>
 </div>
